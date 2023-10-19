@@ -1,2 +1,2 @@
 # ar-demo
-Demo applications for augmented reality
+Demo applications for augmented reality demonstration
