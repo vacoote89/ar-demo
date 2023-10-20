@@ -1,0 +1,11 @@
+Model Information:
+* title:	Easter Eggs with Basket - Low Poly
+* source:	https://sketchfab.com/3d-models/easter-eggs-with-basket-low-poly-963f4401eb25417e9efd9511d02b5445
+* author:	Spark (https://sketchfab.com/muammar.yacoob)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Easter Eggs with Basket - Low Poly" (https://sketchfab.com/3d-models/easter-eggs-with-basket-low-poly-963f4401eb25417e9efd9511d02b5445) by Spark (https://sketchfab.com/muammar.yacoob) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Happy New Year 2020
+* source:	https://sketchfab.com/3d-models/happy-new-year-2020-97f7ec18dd7647b5850c4d82ad89d761
+* author:	BetelgeuseMan (https://sketchfab.com/betelgeuseman)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Happy New Year 2020" (https://sketchfab.com/3d-models/happy-new-year-2020-97f7ec18dd7647b5850c4d82ad89d761) by BetelgeuseMan (https://sketchfab.com/betelgeuseman) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

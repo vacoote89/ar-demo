@@ -1,0 +1,11 @@
+Model Information:
+* title:	Brevard Veterans Memorial Center WWII Marker
+* source:	https://sketchfab.com/3d-models/brevard-veterans-memorial-center-wwii-marker-c81732027a53457394b8bb24dba03e2a
+* author:	Florida Public Archaeology Network (https://sketchfab.com/fpan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Brevard Veterans Memorial Center WWII Marker" (https://sketchfab.com/3d-models/brevard-veterans-memorial-center-wwii-marker-c81732027a53457394b8bb24dba03e2a) by Florida Public Archaeology Network (https://sketchfab.com/fpan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

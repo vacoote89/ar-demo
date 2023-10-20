@@ -1,0 +1,11 @@
+Model Information:
+* title:	Happy Thanksgiving
+* source:	https://sketchfab.com/3d-models/happy-thanksgiving-da0ee60fe0874e9abed5b51d19ebc8cf
+* author:	djcarson (https://sketchfab.com/djcarson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Happy Thanksgiving" (https://sketchfab.com/3d-models/happy-thanksgiving-da0ee60fe0874e9abed5b51d19ebc8cf) by djcarson (https://sketchfab.com/djcarson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
